@@ -421,6 +421,11 @@ INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands0.fd
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands0.fd
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5brands0.tfm
+INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free2regular.tfm
+INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free2solid.tfm
 INPUT .\ronit-photo.png
 INPUT .\ronit-photo.png
 INPUT .\ronit-photo.png
@@ -473,18 +478,18 @@ INPUT awards.tex
 INPUT .\awards.tex
 INPUT .\awards.tex
 INPUT awards.tex
-INPUT .\research.tex
-INPUT .\research.tex
-INPUT research.tex
-INPUT .\research.tex
-INPUT .\research.tex
-INPUT research.tex
-INPUT .\research.tex
-INPUT .\research.tex
-INPUT research.tex
-INPUT .\research.tex
-INPUT .\research.tex
-INPUT research.tex
+INPUT .\projects.tex
+INPUT .\projects.tex
+INPUT projects.tex
+INPUT .\projects.tex
+INPUT .\projects.tex
+INPUT projects.tex
+INPUT .\projects.tex
+INPUT .\projects.tex
+INPUT projects.tex
+INPUT .\projects.tex
+INPUT .\projects.tex
+INPUT projects.tex
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
 INPUT C:\Users\Ronit Kataria\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -492,6 +497,7 @@ INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cabin
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free1.enc
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\inconsolata\i4-t1-5.enc
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5brands0.enc
+INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free2.enc
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
@@ -503,18 +509,6 @@ INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\tfm\public\coch
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cochineal\coch_qyvxxn.enc
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\vf\public\cochineal\Cochineal-Italic-osf-swash-t1.vf
 INPUT C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Italic-osf-swash-t1--base.tfm
-INPUT .\projects.tex
-INPUT .\projects.tex
-INPUT projects.tex
-INPUT .\projects.tex
-INPUT .\projects.tex
-INPUT projects.tex
-INPUT .\projects.tex
-INPUT .\projects.tex
-INPUT projects.tex
-INPUT .\projects.tex
-INPUT .\projects.tex
-INPUT projects.tex
 INPUT .\skills.tex
 INPUT .\skills.tex
 INPUT skills.tex

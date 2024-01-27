@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.27)  27 JAN 2024 19:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.27)  27 JAN 2024 19:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -867,34 +867,34 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Info: Redefining \oldstylenums on input line 90.
-LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 90.
+LaTeX Info: Redefining \oldstylenums on input line 91.
+LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 91.
  (C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex/latex/cochineal\t1cochineal-osf.fd
 File: T1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for T1/Cochineal-OsF.
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 90.
+(Font)              scaled to size 10.0pt on input line 91.
  (cv-llt.aux)
 \openout1 = `cv-llt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
  (C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count456
@@ -961,9 +961,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv-llt.bbl' found.
  (cv-llt.bbl)
-Package biblatex Info: Reference section=0 on input line 90.
-Package biblatex Info: Reference segment=0 on input line 90.
-Package hyperref Info: Link coloring ON on input line 90.
+Package biblatex Info: Reference section=0 on input line 91.
+Package biblatex Info: Reference segment=0 on input line 91.
+Package hyperref Info: Link coloring ON on input line 91.
  (cv-llt.out) (cv-llt.out)
 \@outlinefile=\write6
 \openout6 = `cv-llt.out'.
@@ -974,41 +974,47 @@ Package hyperref Info: Link coloring ON on input line 90.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 91.
+(Font)              scaled to size 17.28pt on input line 92.
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 91.
-LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 91.
+(Font)              scaled to size 17.28pt on input line 92.
+LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 92.
  (C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex/latex/cabin\t1cabin-tlf.fd
 File: T1Cabin-TLF.fd 2020/07/15 (autoinst) Font definitions for T1/Cabin-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
-(Font)              `T1/Cabin-TLF/bold/n' on input line 91.
+(Font)              `T1/Cabin-TLF/bold/n' on input line 92.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 91.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 91.
+(Font)              scaled to size 17.28pt on input line 92.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 92.
  (C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 91.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 92.
  (C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 91.
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 91.
+(Font)              scaled to size 8.99994pt on input line 92.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 92.
  (C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 91.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 92.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 92.
+ (C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
+
+Package fontawesome5 Warning: The requested icon phone has been replaced by
+(fontawesome5)                the solid version
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 91.
+(Font)              <7> on input line 92.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 91.
-<ronit-photo.png, id=32, 852.93657pt x 738.50906pt>
+(Font)              <5> on input line 92.
+<ronit-photo.png, id=33, 852.93657pt x 738.50906pt>
 File: ronit-photo.png Graphic file (type png)
 <use ronit-photo.png>
-Package pdftex.def Info: ronit-photo.png  used on input line 91.
+Package pdftex.def Info: ronit-photo.png  used on input line 92.
 (pdftex.def)             Requested size: 112.67549pt x 97.55336pt.
- (education.tex (C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)) (education.tex) (education.tex) (education.tex) (employment.tex) (employment.tex) (employment.tex) (employment.tex) (awards.tex) (awards.tex) (awards.tex) (awards.tex) (research.tex) (research.tex) (research.tex) (research.tex [1
+(education.tex (C:\Users\Ronit Kataria\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)) (education.tex) (education.tex) (education.tex) (employment.tex) (employment.tex) (employment.tex) (employment.tex) (awards.tex) (awards.tex) (awards.tex) (awards.tex) (projects.tex) (projects.tex) (projects.tex) (projects.tex [1
 
-{C:/Users/Ronit Kataria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc} <./ronit-photo.png>]) (projects.tex) (projects.tex) (projects.tex) (projects.tex) (skills.tex) (skills.tex) (skills.tex) (skills.tex) [2{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc}] (cv-llt.aux)
+{C:/Users/Ronit Kataria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc} <./ronit-photo.png>]) (skills.tex) (skills.tex) (skills.tex) (skills.tex) [2{C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc}] (cv-llt.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1020,17 +1026,17 @@ Package logreq Info: Writing requests to 'cv-llt.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35982 strings out of 474485
- 728287 string characters out of 5739922
- 1951542 words of memory out of 5000000
- 57617 multiletter control sequences out of 15000+600000
- 738231 words of font info for 61 fonts, out of 8000000 for 9000
+ 35988 strings out of 474485
+ 728591 string characters out of 5739922
+ 1953542 words of memory out of 5000000
+ 57627 multiletter control sequences out of 15000+600000
+ 738795 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,101p,1185b,1789s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/Ronit Kataria/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv-llt.pdf (2 pages, 1221512 bytes).
+Output written on cv-llt.pdf (2 pages, 1223912 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 112 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
